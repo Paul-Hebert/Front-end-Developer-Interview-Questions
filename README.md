@@ -14,8 +14,8 @@
 * If you could master one technology this year, what would it be?
 * Explain the importance of standards and standards bodies.
 * Explain some of the pros and cons for CSS animations versus JavaScript animations.
-* What do you do before you even start coding a project?
 * Have you other worked with other developers and designers on the same project and if so, how did that collaboration work?
+* What resources do you use to stay up to date on new design and development information?
 
 
 
@@ -24,7 +24,6 @@
 * How would you use CSS to make a website display well across different screen sizes?
 * What are some of the restrictions when developing HTML emails?
 * Describe Floats and how they work.
-* Describe z-index and how stacking context is formed.
 * What are the various clearing techniques and which is appropriate for what context?
 * How would you approach fixing browser-specific styling issues?
 * What are the different ways to visually hide content?
@@ -35,13 +34,20 @@
 * Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
 * List as many values for the display property that you can remember.
 * What's the difference between a relative, fixed, absolute and statically positioned element?
+* Describe z-index and how stacking context is formed.
 * What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
-* Have you played around with the new CSS Flexbox or Grid specs?
 * What color formats are usable in HTML/CSS?
+* What are some different ways to use transparency in CSS?
 * How do you incorporate developer tools into your workflow?
+* How would you horizontally center an element?
+* What are the advantages of CSS preprocessors?
+* When would you use px vs pt vs em vs rem vs %?
+
+
 
 #### Design Questions:
 
+* What do you do before you even start coding a project?
 * Define leading, kerning and tracking
 * When would you use Photoshop vs. Illustrator vs. inDesign
 * What is the difference between raster and vector images?
@@ -50,3 +56,7 @@
 * What are some of your favorite fonts?
 * What are some different types of color schemes?
 * How do you choose colors for a project?
+* How would you format a document for print?
+* What is a bleed?
+* How can you insure that the print shop prints your fonts correctly?
+* How do you incorporate grids into your designs? What is the advantage of designing around a grid?
